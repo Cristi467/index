@@ -9,7 +9,8 @@ Team
 Cristi: dezvoltatori, testeri, team lead/manager, technical writer, analist, consultant.
 
 Imaginea Arhitecturala
-wbs
+![image](https://user-images.githubusercontent.com/92077697/145093127-5445e64a-f31f-40be-b0df-e74ca2a60c25.png)
+
 
 Resurse Folosite
 Sublime Text 3
